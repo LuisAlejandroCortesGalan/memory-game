@@ -1,0 +1,16 @@
+{
+  "name": "node-game",
+  "version": "1.0.0",
+  "description": "Descripción breve del proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
